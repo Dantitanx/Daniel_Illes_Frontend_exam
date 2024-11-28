@@ -75,11 +75,7 @@ export default function App() {
                 <td>{cat.gender}</td>
                 <td>{cat.color}</td>
                 <td>
-                  <button
-                    type="button"
-                    className="btn btn-danger"
-                    onClick={() => handleDelete(cat.id)}
-                  >
+                  <button type="button" className="btn btn-danger" onClick={() => handleDelete(cat.id)}>
                     Delete
                   </button>
                 </td>
