@@ -1,1 +1,47 @@
+table {
+    background-color: #6c757d; 
+    color: #ffffff; 
+    border-collapse: collapse; 
+    width: 100%; 
+  }
+  
+  table th {
+    background-color: #5a6268 !important; 
+    color: #ffffff !important; 
+    padding: 10px; 
+    text-align: left; 
+  }
+  
+  
+  table td {
+    background-color: #5a6268!important; 
+    color: #ffffff!important; 
+    padding: 10px; 
+  }
+  
+ 
+  table tr:hover {
+    background-color: #5a6268; 
+  }
 
+  input{
+    color: #ffffff !important;
+  }
+  
+  input::placeholder {
+    color: #ffffff !important;
+    opacity: 0.8; 
+  }
+  
+ 
+  body {
+    background-color: #343a40; 
+    color: #ffffff; 
+  }
+  
+  
+  .navbar {
+    background-color: #4b4d4e; 
+    color: #ffffff !important; 
+  }
+  
