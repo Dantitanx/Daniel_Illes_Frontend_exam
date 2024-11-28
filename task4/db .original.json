@@ -1,0 +1,144 @@
+{
+    "cats": [
+        {
+            "id": 1,
+            "name": "Kitty",
+            "age": 10,
+            "gender": "Male",
+            "color": "White"
+        },
+        {
+            "id": 2,
+            "name": "Whiskers",
+            "age": 5,
+            "gender": "Female",
+            "color": "Gray"
+        },
+        {
+            "id": 3,
+            "name": "Shadow",
+            "age": 7,
+            "gender": "Male",
+            "color": "Black"
+        },
+        {
+            "id": 4,
+            "name": "Mittens",
+            "age": 3,
+            "gender": "Female",
+            "color": "Calico"
+        },
+        {
+            "id": 5,
+            "name": "Luna",
+            "age": 2,
+            "gender": "Female",
+            "color": "Siamese"
+        },
+        {
+            "id": 6,
+            "name": "Oliver",
+            "age": 4,
+            "gender": "Male",
+            "color": "Tabby"
+        },
+        {
+            "id": 7,
+            "name": "Chloe",
+            "age": 8,
+            "gender": "Female",
+            "color": "Tortoiseshell"
+        },
+        {
+            "id": 8,
+            "name": "Simba",
+            "age": 6,
+            "gender": "Male",
+            "color": "Orange"
+        },
+        {
+            "id": 9,
+            "name": "Bella",
+            "age": 1,
+            "gender": "Female",
+            "color": "White"
+        },
+        {
+            "id": 10,
+            "name": "Nala",
+            "age": 9,
+            "gender": "Female",
+            "color": "Brown"
+        },
+        {
+            "id": 11,
+            "name": "Max",
+            "age": 3,
+            "gender": "Male",
+            "color": "Black"
+        },
+        {
+            "id": 12,
+            "name": "Daisy",
+            "age": 4,
+            "gender": "Female",
+            "color": "White"
+        },
+        {
+            "id": 13,
+            "name": "Ginger",
+            "age": 2,
+            "gender": "Female",
+            "color": "Orange"
+        },
+        {
+            "id": 14,
+            "name": "Felix",
+            "age": 6,
+            "gender": "Male",
+            "color": "Gray"
+        },
+        {
+            "id": 15,
+            "name": "Sophie",
+            "age": 5,
+            "gender": "Female",
+            "color": "Black and White"
+        },
+        {
+            "id": 16,
+            "name": "Toby",
+            "age": 1,
+            "gender": "Male",
+            "color": "Brown"
+        },
+        {
+            "id": 17,
+            "name": "Milo",
+            "age": 7,
+            "gender": "Male",
+            "color": "Tabby"
+        },
+        {
+            "id": 18,
+            "name": "Coco",
+            "age": 9,
+            "gender": "Female",
+            "color": "Cream"
+        },
+        {
+            "id": 19,
+            "name": "Sassy",
+            "age": 8,
+            "gender": "Female",
+            "color": "Gray"
+        },
+        {
+            "id": 20,
+            "name": "Ziggy",
+            "age": 2,
+            "gender": "Male",
+            "color": "Black"
+        }
+    ]
+}
