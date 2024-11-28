@@ -1,0 +1,81 @@
+html {
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #fff;
+    border-bottom: 2px solid #dee2e6;
+}
+.logo-section {
+    display: flex;
+    align-items: center;
+}
+.logo {
+    width: 2rem;
+    height: 2rem;
+    margin-right: 0.25rem;
+}
+.title {
+    font-size: 2rem;
+    color: #e53935;
+}
+.menu {
+    display: flex;
+    gap: 1rem;
+}
+.menu a {
+    text-decoration: none;
+    color: #e53935;
+}
+@media (max-width: 620px) {
+    .menu {
+        display: none;
+    }
+}
+
+.movies {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 1rem;
+    justify-content: center;
+}
+.movie-tile {
+    width: 300px;
+    border: 2px solid #dee2e6;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    text-align: center;
+}
+.movie-tile img {
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+}
+.movie-tile h2 {
+    font-size: 0.75rem;
+    padding: 0.5rem;
+}
+
+footer {
+    text-align: right;
+    padding: 1rem;
+    border-top: 2px solid #dee2e6;
+}
+.quote {
+    font-size: 0.75rem;
+    font-style: italic;
+    color: #333;
+}
